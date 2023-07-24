@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: rgb(7, 184, 184);
+    font-weight: 600;
+}
+.navbar-brand{
+    font-weight: 900;
+    color: rgb(7, 184, 184);
+    padding-left: 40%;
+}
+.sbt-btn{
+    text-align: center;
+    margin-right: 10px;
+    justify-content: center;
+    color: rgb(33, 32, 32);
+    background-color: rgb(7, 184, 184);;
+    
+}
+.sbt-btn:hover{
+    color: rgb(7, 184, 184);;
+    background-color: rgb(19, 18, 18);
+    border:2px solid rgb(7, 184, 184);;
+}

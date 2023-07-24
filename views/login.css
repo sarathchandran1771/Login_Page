@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: rgb(7, 184, 184);
+    font-weight: 600;
+}
+.navbar-brand{
+    font-weight: 900;
+    color: rgb(7, 184, 184);
+    padding-left: 40%;
+}
+.main-body{
+    width: 100%;
+    height: 670px;
+    background: url(https://cutewallpaper.org/21/css-background-image-full-screen/Fullscreen-Background-Slider-Example-Gutenslider.jpg);
+}
+.box{
+    border:5px solid black;
+    width: 424px;
+}
+.new-update{
+    color: rgb(7, 184, 184);
+    text-decoration: solid;
+    font-size: medium;
+}
+.new-update:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.form-text{
+    font-weight: 400;
+    color: rgb(237, 0, 48);
+}
+.login-box{
+    padding: 8px;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(111, 73, 73));;
+    margin-right: 80px;
+    height: 380px;
+    
+}
+.Login{
+    border-bottom: 1px solid chartreuse;
+    text-align: center;
+}
+.sbt-btn{
+    text-align: center;
+    justify-content: center;
+    color: rgb(33, 32, 32);
+    background-color: aqua;
+    
+}
+.sbt-btn:hover{
+    color: chartreuse;
+    background-color: rgb(10, 10, 10);
+    border:2px solid chartreuse;
+}
